@@ -1,0 +1,5 @@
+{
+  "name": "ELCOMP WiFi Heatmap Sim",
+  "description": "A professional-grade WiFi signal propagation simulator. Design floor plans, place Access Points, and visualize heatmaps in 2D/3D.",
+  "requestFramePermissions": []
+}
